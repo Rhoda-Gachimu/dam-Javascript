@@ -1,5 +1,5 @@
 function show() {
-    console.log("I have run")
+    let inputValue = document.getElementById("input").value
     let p = document.getElementById("display")
-    p.textContent = "Hello Rhoda, Welcome to the bootcamp"
+    p.textContent = `Hello ${inputValue}, Welcome to the bootcamp`
 }
