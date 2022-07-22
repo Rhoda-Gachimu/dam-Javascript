@@ -1,4 +1,4 @@
-# Assignment 1
+# Project
 
 This assignment will involve a couple of steps.
 
